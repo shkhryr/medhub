@@ -1,0 +1,12 @@
+**/.env
+__pycache__/*
+*/__pycache__/*
+**/__pycache__
+**/.idea
+*/migrations/*
+/migrations/*
+migrations/*
+**/migrations
+**/.vscode
+**/venv
+**/env
